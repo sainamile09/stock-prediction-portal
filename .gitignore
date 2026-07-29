@@ -1,0 +1,14 @@
+# Python / Django
+backend-drf/.env
+backend-drf/env/
+backend-drf/db.sqlite3
+backend-drf/__pycache__/
+backend-drf/**/__pycache__/
+*.pyc
+
+# React / Node
+frontend-react/.env
+frontend-react/stock-prediction-portal/node_modules/
+
+# Resources
+resources/anaconda_projects/
